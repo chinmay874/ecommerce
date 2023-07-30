@@ -1,0 +1,17 @@
+.Navbox{
+    display: flex;
+    background-color: black;
+    width: 100vw;
+    min-height: 10vh;
+    justify-content: center;
+    align-items: center;
+
+}
+.navlink{
+    
+}
+.navigate{
+    margin-top: 30px;
+    margin: 20px;
+    color: white
+}
